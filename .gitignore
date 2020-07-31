@@ -1,0 +1,13 @@
+# General
+executables/
+sandbox/
+.vscode/
+
+# Visual Studio specific rules
+vs/
+[Dd]ebug/
+.vs/
+*.user
+
+# Extra files
+cis6-assignment-grades-sheet.xlsx
